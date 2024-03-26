@@ -33,33 +33,33 @@ Use the following if needed
     <details>
     <summary>🐈‍⬛ Panther</summary>
 
-  - [🍌 Banana]()
+    - [🍌 Banana]()
 
-  - [🍒 Cherry]()
+    - [🍒 Cherry]()
 
-  - [🫐 Blueberry]()
+    - [🫐 Blueberry]()
 
-  - [🥝 Kiwi]()
+    - [🥝 Kiwi]()
 
-  - [🍇 Grape]()
+    - [🍇 Grape]()
 
-  - [🍊 Tangerine]()
+    - [🍊 Tangerine]()
     </details>
 
-      <details>
-      <summary>🐯 Tiger</summary>
+    <details>
+    <summary>🐯 Tiger</summary>
 
-  - [🍌 Banana]()
+    - [🍌 Banana]()
 
-  - [🍒 Cherry]()
+    - [🍒 Cherry]()
 
-  - [🫐 Blueberry]()
+    - [🫐 Blueberry]()
 
-  - [🍇 Grape]()
+    - [🍇 Grape]()
 
-  - [🥝 Kiwi]()
+    - [🥝 Kiwi]()
 
-  - [🍊 Tangerine]()
+    - [🍊 Tangerine]()
   </details>
 
 ## 🖐️ FAQ (optional)
